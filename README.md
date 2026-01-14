@@ -1,4 +1,5 @@
 📢 News Aggregator
+
 📰 Overview
 
 News Aggregator is a modern web application that collects and displays news from multiple sources in one place, giving users a unified news reading experience.
@@ -9,11 +10,17 @@ This project includes both frontend and backend code, with a focus on clean arch
 📌 Features
 
 ✅ Aggregates and displays news items from multiple sources
+
 ✅ News categorization (e.g., Technology, Business, Sports)
+
 ✅ Search and filter functionality
+
 ✅ Responsive and interactive UI
+
 ✅ Well-structured backend APIs
+
 ✅ Automated tests included
+
 ✅ Easy deployment setup
 
 (You can update these once specific backend/API details are ready.)
@@ -21,21 +28,33 @@ This project includes both frontend and backend code, with a focus on clean arch
 🚀 Tech Stack
 Layer	Technology
 Frontend	React + Vite + Tailwind CSS
+
 Backend	Node.js / Express (assumed)
+
 Testing	Jest / Supertest / Cypress (if tests exist)
+
 Deployment	Netlify / Vercel (Frontend), Render / Railway (Backend)
 
+
 (Adjust if your backend uses a different stack.)
+
 
 📁 Repository Structure
 News-Aggregator/
 ├── backend/                  # Backend API & business logic
+
 ├── frontend/                 # Frontend UI application
+
 ├── tests/                    # Automated test cases
+
 ├── .gitignore
+
 ├── NEWSHUB_README.md         # Project notes / secondary readme
+
 ├── README.md                # This documentation
+
 └── test_result.md            # Test summary/report
+
 
 
 (Adapt if structure changes.)
